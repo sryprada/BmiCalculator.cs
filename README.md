@@ -1,4 +1,3 @@
-# BmiCalculator.cs
 using System;
 
 namespace ExceptionHandlingDemo
@@ -108,3 +107,4 @@ namespace ExceptionHandlingDemo
         }
     }
 }
+
